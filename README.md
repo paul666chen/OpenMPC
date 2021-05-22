@@ -17,10 +17,20 @@ OpenMPC是国内第一个影响力最大的隐私计算开放社区，是一群�
 
 欢迎加入。
 
-## 商业合作
+## 三、资源导航
+
+### 1. 公众号
+
+欢迎加入我们，欢迎关注我们的公众号
+ ![公众号](./mp.jpeg)
+
+### 2. 官方网站
+[www.openmpc.com](https://www.openmpc.com)
+### 3. github
+1. [Awesome-OpenMPC](https://github.com/OpenMPC-Lab/Awesome-OpenMPC.git)
+2. [WhitePaper](https://github.com/OpenMPC-Lab/WhitePaper.git)
+
+## 四、商业合作
 
 为了社区更好发展和更大产出，我们欢迎各种形式的赞助和合作咨询，收入将用于社区发展。
 
-欢迎加入我们，欢迎关注我们的公众号
-
- ![公众号](./mp.jpeg)
