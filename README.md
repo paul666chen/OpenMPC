@@ -11,9 +11,9 @@ OpenMPC是国内第一个影响力最大的隐私计算开放社区，是一群�
 
 目前我们的成立了多个小组，协助社区的管理和运营，有
 
-- 兴趣小组：
-- 翻译小组：
-- 审稿发稿小组：
+- 兴趣小组：[yankaili2006](https://github.com/yankaili2006), [Cryptographer63](https://github.com/Cryptographer63), ...
+- 翻译小组：[yankaili2006](https://github.com/yankaili2006), [Cryptographer63](https://github.com/Cryptographer63), ...
+- 审稿发稿小组：[yankaili2006](https://github.com/yankaili2006), [Cryptographer63](https://github.com/Cryptographer63), ...
 
 欢迎加入。
 
